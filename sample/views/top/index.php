@@ -1,0 +1,2 @@
+ああああ
+<?php echo $sample ?>
